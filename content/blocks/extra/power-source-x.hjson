@@ -1,0 +1,17 @@
+type: PowerSource
+name: Power Source
+description: Power Source
+
+health: 99000
+size: 1
+maxNodes: 900
+outputsPower: true
+consumesPower: false
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+category: power
+research: liquid-source-x
+
+alwaysUnlocked: true
