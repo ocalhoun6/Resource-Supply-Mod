@@ -1,5 +1,5 @@
 # Resource-Supply-Mod
-A Mindustry mod supplying blocks that provide infinite resources.
+A Mindustry mod supplying blocks that provide infinite resources, including in campaign maps.
 
 
 Provides blocks that supply infinite resources, liquids, and power.
