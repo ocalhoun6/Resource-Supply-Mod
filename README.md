@@ -26,6 +26,7 @@ Based on https://github.com/xenoforce/opmod
 
 
 opmod's credits:
+
     1) Credit goes to xamionex (Opore Mod).
 
     2) Credit goes to AureusStratus (ExoGenesis mod).
